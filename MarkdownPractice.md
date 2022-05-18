@@ -7,7 +7,6 @@
 * How to open and merge pull requests
 * Using Markdown
 
-:trollface:
 
 ╰(*°▽°*)╯ 
 
@@ -27,3 +26,4 @@ A pretty neat youtube video for coding in C#:
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/N775KsWQVkw/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+:trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface: :trollface:
