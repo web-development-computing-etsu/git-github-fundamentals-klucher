@@ -9,6 +9,7 @@
 * Branching off from Main for best practice
 * How to create a README
 * How to open and merge pull requests
+* Using Markdown
 
 
 
