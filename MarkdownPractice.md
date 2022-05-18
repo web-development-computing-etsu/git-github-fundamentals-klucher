@@ -1,4 +1,4 @@
-# **Markdown Practice** 🍕
+# 🥴 **Markdown Practice** 🍕
 
 ## **What I Have Learned**
 
@@ -7,15 +7,17 @@
 * How to open and merge pull requests
 * Using Markdown
 
-:chop:
+:trollface:
 
-╰(*°▽°*)╯
+╰(*°▽°*)╯ 
 
-## **What I Am Confused About**
+༼ つ ◕_◕ ༽つ ☜(ﾟヮﾟ☜)
+
+## **What I Am Confused About** 🤡
 
 * *Nothing* at the moment but I'm sure there will be *something* in the future!!!
 
-## **Extras**
+## **Extras** 🌚
 
 My Profile Picture:
 
