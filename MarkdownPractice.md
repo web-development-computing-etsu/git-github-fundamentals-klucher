@@ -9,8 +9,9 @@
 
 ## **What I Am Confused About**
 
-
 * *Nothing* at the moment but I'm sure there will be *something* in the future!!!
+
+## **Extras**
 
 My Profile Picture:
 
