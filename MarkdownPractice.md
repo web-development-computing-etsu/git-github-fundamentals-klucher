@@ -22,7 +22,7 @@ My Profile Picture:
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-![alt text](https://github.com/web-development-computing-etsu/git-github-fundamentals-klucher/edit/main/SMMDQSSD_-_Rocket.png "Slime")
+![alt text](https://github.com/web-development-computing-etsu/git-github-fundamentals-klucher/blob/main/SMMDQSSD_-_Rocket.png "Slime")
 
 A pretty neat youtube video for coding in C#:
 
