@@ -1,4 +1,4 @@
-# **Markdown Practice**
+# **Markdown Practice** 🍕
 
 ## **What I Have Learned**
 
@@ -6,6 +6,10 @@
 * How to create a README
 * How to open and merge pull requests
 * Using Markdown
+
+:chop:
+
+╰(*°▽°*)╯
 
 ## **What I Am Confused About**
 
